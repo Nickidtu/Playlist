@@ -1,0 +1,7 @@
+Denne kode køre et program der kan ændre en musikplayliste ved hjælp af linked lists.
+
+Koden udføres således:
+- Læser sange fra `playlist.txt`
+- Sletter sang nummer 4
+- Tilføjer ny sang på plads 3
+- Gemmer resultatet i `playlist-out.txt`
